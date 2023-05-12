@@ -1,6 +1,6 @@
 # OAI-5G-NR-SA-tutorial-with-OAI-nrUE
 OAI 5G NR SA tutorial with OAI nrUE
-1. Scenario
+**1. Scenario**
 In this tutorial we describe how to configure and run a 5G end-to-end setup with OAI CN5G, OAI gNB and OAI nrUE.
 Minimum hardware requirements:
 
